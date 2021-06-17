@@ -7,7 +7,6 @@ i Live in **Indonesia, Tanjung Selor**
 
 Favorit Games : **Point blank, Growtopia, Counter-Strike Nexon Zombies**
 - 🔭 i'm Currently Working on Python
-- 🌱 I’m currently learning : C++ & Javascript
-- 📫 My Discord : iRio#0007
+- 🌱 I’m currently learning : C++
+- 📫 My Discord : iRio#1000
 ###
-![Uploading tsukasa yugi.jpg…]()
